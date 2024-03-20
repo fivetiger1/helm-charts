@@ -1,5 +1,5 @@
 apiVersion: v2
-name: hello-helm
+name: go-project
 description: A k8s tutorials in https://github.com/fivetiger1/k8s-tutorials
 
 # A chart can be either an 'application' or a 'library' chart.
