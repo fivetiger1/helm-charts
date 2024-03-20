@@ -16,5 +16,5 @@ To install the helm-project chart:
     helm install helm-project helm-project/go-project
 
 To uninstall the chart:
-
+#版本更新 不再支持 delete
     helm uninstall go-project
